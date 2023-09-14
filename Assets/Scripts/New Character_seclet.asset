@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 694c118022ba755469210a97a1e81b3c, type: 3}
+  m_Name: New Character_seclet
+  m_EditorClassIdentifier: 
+  Character:
+  - CharacterName: Pirana
+    CharacterSprite: {fileID: 21300000, guid: a12aa82529ab1ab49b8172e694a2be55, type: 3}
+  - CharacterName: Bukliko
+    CharacterSprite: {fileID: 21300000, guid: 757a5d361f659304da9102e3bb265856, type: 3}
+  - CharacterName: chomble
+    CharacterSprite: {fileID: 21300000, guid: 46f350a8f11c43a4398163d52d15f217, type: 3}
+  - CharacterName: Guja
+    CharacterSprite: {fileID: 21300000, guid: 9b485864f2d0d3944b54f5c50ff258b0, type: 3}
+  - CharacterName: devi
+    CharacterSprite: {fileID: 21300000, guid: 4fcb371f1b96b7843a37a95a3a27a16c, type: 3}
+  - CharacterName: Matejani
+    CharacterSprite: {fileID: 21300000, guid: ece9a073576c8e34f8472de06ebe5192, type: 3}
+  - CharacterName: wiwiliko
+    CharacterSprite: {fileID: 21300000, guid: 2d9184fa09cbced42b59bf26573ac3e2, type: 3}

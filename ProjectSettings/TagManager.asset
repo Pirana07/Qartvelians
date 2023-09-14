@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GM
+  - Killer
+  - Teleporter
+  - Sound
+  - Pill
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: bg
+    uniqueID: 3738486109
+    locked: 0
+  - name: ad
+    uniqueID: 870839463
+    locked: 0
+  - name: GRID
+    uniqueID: 3457903373
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Actor
+    uniqueID: 4157990917
+    locked: 0
+  - name: ACTORZEDA
+    uniqueID: 180640189
+    locked: 0
+  - name: adad
+    uniqueID: 4139656839
+    locked: 0
